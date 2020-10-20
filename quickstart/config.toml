@@ -72,9 +72,19 @@ disqusShortname = "bento-hugo-theme"
   [[menu.main]]
       name = "Archives"
       url = "/archives"
-      weight = 1
+      weight = 2
+  
+  [[menu.main]]
+      name = "Posts"
+      url = "/posts"
+      weight = 3
+
+  [[menu.main]]
+      name = "Projects"
+      url = "/projects"
+      weight = 4
 
   [[menu.main]]
       name = "Source code"
       url = "https://github.com/leonardofaria/bento"
-      weight = 1
+      weight = 5
