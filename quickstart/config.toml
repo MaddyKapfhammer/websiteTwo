@@ -3,7 +3,7 @@ languageCode = "en-us"
 baseurl = "https://www.example.com/"
 title = "Madelyn Kapfhammer"
 
-author = "Leonardo Faria"
+author = "Madelyn Kapfhammer"
 copyright = "MIT"
 
 [taxonomies]
@@ -34,10 +34,10 @@ disqusShortname = "bento-hugo-theme"
   description = "Nice tagline I will think of later"
 
   # Copyright note in the footer
-  copyright = "Copyright © 2020 MKapfhammer"
+  copyright = "Copyright © 2020 Madelyn Kapfhammer"
 
   # Image in the homepage. You can setup a different image for social media
-  cover = "images/background3.jpg"
+  cover = "images/background5.jpg"
   ogImage = "images/og_image.jpg"
 
   # Social media usernames
@@ -47,7 +47,7 @@ disqusShortname = "bento-hugo-theme"
   email = "mailto:maddy.kapfhammer@gmail.com"
 
   # Avatar (shown in the homepage)
-  avatar = "images/profile.jpg"
+  avatar = "images/profile3.jpg"
   # Bio is shown in the end of posts
   authorBio = "I'm a student, software engineer and strong woman"
 
@@ -86,5 +86,11 @@ disqusShortname = "bento-hugo-theme"
 
   [[menu.main]]
       name = "Source code"
-      url = "https://github.com/leonardofaria/bento"
+      url = "https://github.com/MaddyKapfhammer/www.madelynkapfhammer.com"
       weight = 5
+  
+  [menu.main]]
+    name = "Software"
+    url = "/projects/software"
+    weight = 1
+    parent = "Projects"
