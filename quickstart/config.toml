@@ -88,9 +88,3 @@ disqusShortname = "bento-hugo-theme"
       name = "Source code"
       url = "https://github.com/MaddyKapfhammer/www.madelynkapfhammer.com"
       weight = 5
-  
-  [menu.main]]
-    name = "Software"
-    url = "/projects/software"
-    weight = 1
-    parent = "Projects"
