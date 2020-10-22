@@ -1,16 +1,17 @@
 +++
-title = "I Take Pictures... Sometimes"
+title = "The photography collection of someone who is not a photographer"
 description = "The photography collection of someone who is not a photographer"
 date = "2020-10-22"
 aliases = ["about-me","contact"]
 author = "Madelyn Kapfhammer"
+tags = [
+    "photography", "pictures", "camera"
+]
 +++
 
 ## Now don't get me wrong, I am in NO WAY a professional
 
 ### However, I do enjoy snapping some pictures on my phone every once in a while
-
-So here is the photography collection of someone who is _not_ a photographer
 
 | {{< figure src="/post/images/beachsunset2.jpg">}}| {{< figure src="/post/images/darksunset.jpg">}} | {{< figure src="/post/images/classicsunset.jpg">}} |
 | :-----------------: | :--------------: | :-----------------:|

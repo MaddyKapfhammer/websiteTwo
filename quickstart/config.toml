@@ -16,7 +16,7 @@ enableRobotsTXT = true
 [params]
 title = "Madelyn Kapfhammer"
 author = "Madelyn Kapfhammer"
-description = "Nice Tagline"
+description = "Student. Scientist. Software Engineer."
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
