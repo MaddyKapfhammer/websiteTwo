@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Madelyn Kapfhammer"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -14,9 +14,9 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
-description = "Call me Jane"
+title = "Madelyn Kapfhammer"
+author = "Madelyn Kapfhammer"
+description = "Nice Tagline"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -36,22 +36,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/mkapfhammer"
 
 [[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/MaddyKapfhammer"
 
 [[params.socialIcons]]
 icon = "fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/maddy.kapfhammer/?hl=en"
 
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:maddy.kapfhammer@gmail.com"
 
 ## Menu items
 
