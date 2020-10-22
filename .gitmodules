@@ -1,3 +1,6 @@
 [submodule "quickstart/themes/bento"]
 	path = quickstart/themes/bento
 	url = https://github.com/leonardofaria/bento.git
+[submodule "quickstart/themes/anatole"]
+	path = quickstart/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
