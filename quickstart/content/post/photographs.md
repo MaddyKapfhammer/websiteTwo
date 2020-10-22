@@ -6,7 +6,7 @@ aliases = ["about-me","contact"]
 author = "Madelyn Kapfhammer"
 +++
 
-# Now don't get me wrong, I am in NO WAY a professional
+## Now don't get me wrong, I am in NO WAY a professional
 
 ### However, I do enjoy snapping some pictures on my phone every once in a while
 
