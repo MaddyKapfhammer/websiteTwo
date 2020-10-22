@@ -60,17 +60,29 @@ url = "mailto:maddy.kapfhammer@gmail.com"
   [[menu.main]]
   name = "Home"
   identifier = "home"
-  weight = 100
+  weight = 1
   url = "/"
 
   [[menu.main]]
   name = "Posts"
-  weight = 200
+  weight = 2
   identifier = "posts"
   url = "/post/"
 
+  [[main.menu]]
+  name = "Reading"
+  weight = 3
+  identifier = "reading"
+  url = "/reading/"
+
+  [[main.menu]]
+  name = "Research"
+  weight = 4
+  identifier = "research"
+  url = "/research/"
+
   [[menu.main]]
   name = "About"
-  weight = 300
+  weight = 5
   identifier = "about"
   url = "/about/"
