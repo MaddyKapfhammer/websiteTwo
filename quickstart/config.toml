@@ -69,13 +69,13 @@ url = "mailto:maddy.kapfhammer@gmail.com"
   identifier = "posts"
   url = "/post/"
 
-  [[main.menu]]
+  [[menu.main]]
   name = "Reading"
   weight = 3
   identifier = "reading"
   url = "/reading/"
 
-  [[main.menu]]
+  [[menu.main]]
   name = "Research"
   weight = 4
   identifier = "research"
