@@ -12,7 +12,7 @@
     --tag-color: #424242;
     --blockquote-text-color: #858585;
     --blockquote-border-color: #dfe2e5;
-    --top-color:  #b44b622c;
+    --top-color:  #c7abb1;
     --hover-color: #456d88;
     --content-color: #456d88;
     --footer-color: #456d88;
@@ -31,7 +31,7 @@ html[data-theme='dark'] {
     --tag-color: rgb(191, 191, 191);
     --blockquote-text-color: #808080;
     --blockquote-border-color: #424242;
-    --top-color: #5c7d92b4;
+    --top-color: #5e7888;
     --hover-color: #8f404d;
     --content-color: #8f404d;
     --footer-color: #8f404d;
