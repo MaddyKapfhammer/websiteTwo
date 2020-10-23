@@ -6,6 +6,8 @@ description = "But eventually you'll figure it out"
 tags = [
     "website",
     "hugo",
+    "html",
+    "css",
 ]
 +++
 
