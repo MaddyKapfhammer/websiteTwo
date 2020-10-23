@@ -5,7 +5,7 @@ date = "2020-10-22"
 aliases = ["about-me","contact"]
 author = "Madelyn Kapfhammer"
 tags = [
-    "photography", "pictures", "camera"
+    "photography", "pictures", "camera",
 ]
 +++
 
