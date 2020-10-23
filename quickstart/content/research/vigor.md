@@ -1,5 +1,5 @@
 +++
-title = "Predictive Wellness Software"
+title = "Predictive Wellness"
 description = "Predictive Wellness"
 date = "2020-10-22"
 aliases = ["artificial intelligence","software", "predictive wellness", "data analytics"]
