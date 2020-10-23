@@ -1,0 +1,6 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+<div class="embed spotify-player">
+<iframe class="spotify-player" type="text/html" width="300" height="80" src="https://open.spotify.com/embed/track/{{ index .Params 0 }}" allowfullscreen frameborder="0">
+</iframe>
+</div>
