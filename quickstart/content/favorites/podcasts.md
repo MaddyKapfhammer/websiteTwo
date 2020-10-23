@@ -1,12 +1,12 @@
 +++
 title = "Podcasts, Please"
 description = "Check out what I've been listening to"
-date = "2019-02-28"
+date = "2020-10-23"
 aliases = ["podcasts","spotify"]
 author = "Madelyn Kapfhammer"
 +++
 
-# It's kind of like podcasts are taking the world by storm
+# Podcasts are basically taking the world by storm
 
 A year ago if someone would have asked me what I knew about podcasts it probably would have gone something like this...
 
@@ -22,9 +22,8 @@ Since discovering the world of science, true crime, and casual conversation podc
 
 ## Some of my favorites are:
 
-#### TED Talks Daily
-
-{{<podcast 1VXcH8QHkjRcTCEd88U3ti>}}
+#### The Life Scientific
+{{<podcast 0eJHBv0PTcE98UnfaZpX2j>}}
 
 #### Pretty Basic with Alisha Maria and Remi Cruz
 
@@ -32,9 +31,3 @@ Since discovering the world of science, true crime, and casual conversation podc
 
 #### You Can Sit With Us
 {{<podcast 6xglolTDhKYA8OKyM8IgZQ>}}
-
-#### Let's Talk About What We Learned Today
-{{<podcast 4IuDrvWYPi8ueTCBBH1Rv1>}}
-
-#### The Life Scientific
-{{<podcast 0eJHBv0PTcE98UnfaZpX2j>}}

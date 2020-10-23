@@ -1,7 +1,7 @@
 +++
 author = "Madelyn Kapfhammer"
 title = "Some Spotify Recommendations"
-date = "2020-10-22"
+date = "2020-10-23"
 description = "A Glimpse Into What I've Been Listening To"
 tags = [
     "music", "favorites", "spotify",
@@ -26,13 +26,7 @@ You don't have to play them on _repeat_ but please give them a _chance_
 
 {{<spotify 3d3LHam2Lc5ADEyJxG3fXE>}}
 
-{{<spotify 1pxV0DY4TrhKU4LImyZfzs>}}
-
-{{<spotify 6ee7CHWggDCiHtZdgzqnJG>}}
-
 {{<spotify 3OoQfeQqPOgJ0KijlRmnzU>}}
-
-{{<spotify 5inDa3sWj8zqJBOdj7Bjqc>}}
 
 {{<spotify 7GnXKlzSWy0oeKZwV8RiPE>}}
 
